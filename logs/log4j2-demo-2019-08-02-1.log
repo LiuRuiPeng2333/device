@@ -1,0 +1,60 @@
+[2019-08-02 17:24:39,680][INFO][main][org.springframework.boot.StartupInfoLogger] Starting DeviceApplication on DESKTOP-B847ITO with PID 828 (E:\device\target\classes started by liuru in E:\device)
+[2019-08-02 17:24:39,714][INFO][main][org.springframework.boot.SpringApplication] No active profile set, falling back to default profiles: default
+[2019-08-02 17:24:41,046][INFO][main][org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8080 (http)
+[2019-08-02 17:24:41,059][INFO][main][org.apache.juli.logging.DirectJDKLog] Initializing ProtocolHandler ["http-nio-8080"]
+[2019-08-02 17:24:41,066][INFO][main][org.apache.juli.logging.DirectJDKLog] Starting service [Tomcat]
+[2019-08-02 17:24:41,066][INFO][main][org.apache.juli.logging.DirectJDKLog] Starting Servlet engine: [Apache Tomcat/9.0.21]
+[2019-08-02 17:24:41,072][INFO][main][org.apache.juli.logging.DirectJDKLog] Loaded APR based Apache Tomcat Native library [1.2.21] using APR version [1.6.5].
+[2019-08-02 17:24:41,072][INFO][main][org.apache.juli.logging.DirectJDKLog] APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[2019-08-02 17:24:41,072][INFO][main][org.apache.juli.logging.DirectJDKLog] APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[2019-08-02 17:24:41,132][INFO][main][org.apache.juli.logging.DirectJDKLog] OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+[2019-08-02 17:24:41,226][INFO][main][org.apache.juli.logging.DirectJDKLog] Initializing Spring embedded WebApplicationContext
+[2019-08-02 17:24:41,227][INFO][main][org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 1458 ms
+[2019-08-02 17:24:41,772][INFO][main][org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] Initializing ExecutorService 'applicationTaskExecutor'
+[2019-08-02 17:24:42,045][INFO][main][org.apache.juli.logging.DirectJDKLog] Starting ProtocolHandler ["http-nio-8080"]
+[2019-08-02 17:24:42,062][INFO][main][org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8080 (http) with context path ''
+[2019-08-02 17:24:42,064][INFO][main][org.springframework.boot.StartupInfoLogger] Started DeviceApplication in 3.049 seconds (JVM running for 4.78)
+[2019-08-02 17:25:06,075][INFO][http-nio-8080-exec-2][org.apache.juli.logging.DirectJDKLog] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2019-08-02 17:25:06,076][INFO][http-nio-8080-exec-2][org.springframework.web.servlet.FrameworkServlet] Initializing Servlet 'dispatcherServlet'
+[2019-08-02 17:25:06,080][INFO][http-nio-8080-exec-2][org.springframework.web.servlet.FrameworkServlet] Completed initialization in 4 ms
+[2019-08-02 17:25:06,458][INFO][http-nio-8080-exec-2][com.jw.device.contorller.UserInfoController] 查询客户:UserInfo(id=null, name=null, phone=null, address=null, registDate=null, deviceId=null, deviceNumber=null, pageDTO=null)
+[2019-08-02 17:25:06,783][INFO][http-nio-8080-exec-2][com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[2019-08-02 17:25:06,988][INFO][http-nio-8080-exec-2][com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[2019-08-02 17:26:27,279][INFO][main][org.springframework.boot.StartupInfoLogger] Starting DeviceApplication on DESKTOP-B847ITO with PID 1712 (E:\device\target\classes started by liuru in E:\device)
+[2019-08-02 17:26:27,280][INFO][main][org.springframework.boot.SpringApplication] No active profile set, falling back to default profiles: default
+[2019-08-02 17:26:28,131][INFO][main][org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8080 (http)
+[2019-08-02 17:26:28,141][INFO][main][org.apache.juli.logging.DirectJDKLog] Initializing ProtocolHandler ["http-nio-8080"]
+[2019-08-02 17:26:28,147][INFO][main][org.apache.juli.logging.DirectJDKLog] Starting service [Tomcat]
+[2019-08-02 17:26:28,147][INFO][main][org.apache.juli.logging.DirectJDKLog] Starting Servlet engine: [Apache Tomcat/9.0.21]
+[2019-08-02 17:26:28,152][INFO][main][org.apache.juli.logging.DirectJDKLog] Loaded APR based Apache Tomcat Native library [1.2.21] using APR version [1.6.5].
+[2019-08-02 17:26:28,153][INFO][main][org.apache.juli.logging.DirectJDKLog] APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[2019-08-02 17:26:28,153][INFO][main][org.apache.juli.logging.DirectJDKLog] APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[2019-08-02 17:26:28,156][INFO][main][org.apache.juli.logging.DirectJDKLog] OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+[2019-08-02 17:26:28,228][INFO][main][org.apache.juli.logging.DirectJDKLog] Initializing Spring embedded WebApplicationContext
+[2019-08-02 17:26:28,228][INFO][main][org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 907 ms
+[2019-08-02 17:26:28,651][INFO][main][org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] Initializing ExecutorService 'applicationTaskExecutor'
+[2019-08-02 17:26:28,832][INFO][main][org.apache.juli.logging.DirectJDKLog] Starting ProtocolHandler ["http-nio-8080"]
+[2019-08-02 17:26:28,848][INFO][main][org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8080 (http) with context path ''
+[2019-08-02 17:26:28,851][INFO][main][org.springframework.boot.StartupInfoLogger] Started DeviceApplication in 1.851 seconds (JVM running for 2.871)
+[2019-08-02 17:26:35,861][INFO][http-nio-8080-exec-2][org.apache.juli.logging.DirectJDKLog] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2019-08-02 17:26:35,861][INFO][http-nio-8080-exec-2][org.springframework.web.servlet.FrameworkServlet] Initializing Servlet 'dispatcherServlet'
+[2019-08-02 17:26:35,867][INFO][http-nio-8080-exec-2][org.springframework.web.servlet.FrameworkServlet] Completed initialization in 6 ms
+[2019-08-02 17:26:35,944][INFO][http-nio-8080-exec-2][com.jw.device.contorller.UserInfoController] 查询客户:UserInfo(id=null, name=null, phone=null, address=null, registDate=null, deviceId=null, deviceNumber=null, pageDTO=null)
+[2019-08-02 17:26:35,998][INFO][http-nio-8080-exec-2][com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[2019-08-02 17:26:36,116][INFO][http-nio-8080-exec-2][com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[2019-08-02 17:47:39,493][INFO][main][org.springframework.boot.StartupInfoLogger] Starting DeviceApplication on DESKTOP-B847ITO with PID 9128 (E:\device\target\classes started by liuru in E:\device)
+[2019-08-02 17:47:39,494][INFO][main][org.springframework.boot.SpringApplication] No active profile set, falling back to default profiles: default
+[2019-08-02 17:47:40,365][INFO][main][org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8080 (http)
+[2019-08-02 17:47:40,375][INFO][main][org.apache.juli.logging.DirectJDKLog] Initializing ProtocolHandler ["http-nio-8080"]
+[2019-08-02 17:47:40,381][INFO][main][org.apache.juli.logging.DirectJDKLog] Starting service [Tomcat]
+[2019-08-02 17:47:40,382][INFO][main][org.apache.juli.logging.DirectJDKLog] Starting Servlet engine: [Apache Tomcat/9.0.21]
+[2019-08-02 17:47:40,387][INFO][main][org.apache.juli.logging.DirectJDKLog] Loaded APR based Apache Tomcat Native library [1.2.21] using APR version [1.6.5].
+[2019-08-02 17:47:40,387][INFO][main][org.apache.juli.logging.DirectJDKLog] APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[2019-08-02 17:47:40,387][INFO][main][org.apache.juli.logging.DirectJDKLog] APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[2019-08-02 17:47:40,390][INFO][main][org.apache.juli.logging.DirectJDKLog] OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+[2019-08-02 17:47:40,466][INFO][main][org.apache.juli.logging.DirectJDKLog] Initializing Spring embedded WebApplicationContext
+[2019-08-02 17:47:40,466][INFO][main][org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 943 ms
+[2019-08-02 17:47:40,854][INFO][main][org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] Initializing ExecutorService 'applicationTaskExecutor'
+[2019-08-02 17:47:41,047][INFO][main][org.apache.juli.logging.DirectJDKLog] Starting ProtocolHandler ["http-nio-8080"]
+[2019-08-02 17:47:41,065][INFO][main][org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8080 (http) with context path ''
+[2019-08-02 17:47:41,067][INFO][main][org.springframework.boot.StartupInfoLogger] Started DeviceApplication in 1.897 seconds (JVM running for 2.993)

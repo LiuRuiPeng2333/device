@@ -1,0 +1,27 @@
+
+spring:
+  datasource:
+    #name: test
+    url: jdbc:mysql://127.0.0.1:3306/device?useUnicode=true&characterEncoding=utf8&serverTimezone=UTC
+    username: root
+    password: 123456
+    drive-class-name: com.mysql.jdbc.Driver
+
+mybatis:
+  type-aliases-package: com.jw.device.entity
+  mapper-locations: classpath:mapper/*.xml
+  configuration:
+    map-underscore-to-camel-case: true
+    default-fetch-size: 500
+    default-statement-timeout: 80
+#sql控制台打印
+logging:
+  config: classpath:log4j2.xml
+  level:
+    com.jw.device.mapper: debug
+pagehelper:
+  helperDialect: mysql
+  reasonable: true
+  supportMethodsArguments: true
+  params: count=countSql
+

@@ -1,0 +1,325 @@
+[2019-08-05 09:36:50,404][INFO][main][org.springframework.boot.StartupInfoLogger] Starting DeviceApplication on DESKTOP-B847ITO with PID 2212 (E:\device\target\classes started by liuru in E:\device)
+[2019-08-05 09:36:50,412][INFO][main][org.springframework.boot.SpringApplication] No active profile set, falling back to default profiles: default
+[2019-08-05 09:36:51,818][INFO][main][org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8080 (http)
+[2019-08-05 09:36:51,835][INFO][main][org.apache.juli.logging.DirectJDKLog] Initializing ProtocolHandler ["http-nio-8080"]
+[2019-08-05 09:36:51,844][INFO][main][org.apache.juli.logging.DirectJDKLog] Starting service [Tomcat]
+[2019-08-05 09:36:51,845][INFO][main][org.apache.juli.logging.DirectJDKLog] Starting Servlet engine: [Apache Tomcat/9.0.21]
+[2019-08-05 09:36:51,852][INFO][main][org.apache.juli.logging.DirectJDKLog] Loaded APR based Apache Tomcat Native library [1.2.21] using APR version [1.6.5].
+[2019-08-05 09:36:51,852][INFO][main][org.apache.juli.logging.DirectJDKLog] APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[2019-08-05 09:36:51,853][INFO][main][org.apache.juli.logging.DirectJDKLog] APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[2019-08-05 09:36:51,887][INFO][main][org.apache.juli.logging.DirectJDKLog] OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+[2019-08-05 09:36:51,996][INFO][main][org.apache.juli.logging.DirectJDKLog] Initializing Spring embedded WebApplicationContext
+[2019-08-05 09:36:51,996][INFO][main][org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 1451 ms
+[2019-08-05 09:36:52,559][INFO][main][org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] Initializing ExecutorService 'applicationTaskExecutor'
+[2019-08-05 09:36:52,826][INFO][main][org.apache.juli.logging.DirectJDKLog] Starting ProtocolHandler ["http-nio-8080"]
+[2019-08-05 09:36:52,844][INFO][main][org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8080 (http) with context path ''
+[2019-08-05 09:36:52,846][INFO][main][org.springframework.boot.StartupInfoLogger] Started DeviceApplication in 3.197 seconds (JVM running for 5.891)
+[2019-08-05 09:50:20,441][INFO][http-nio-8080-exec-2][org.apache.juli.logging.DirectJDKLog] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2019-08-05 09:50:20,441][INFO][http-nio-8080-exec-2][org.springframework.web.servlet.FrameworkServlet] Initializing Servlet 'dispatcherServlet'
+[2019-08-05 09:50:20,452][INFO][http-nio-8080-exec-2][org.springframework.web.servlet.FrameworkServlet] Completed initialization in 10 ms
+[2019-08-05 10:07:48,779][INFO][main][org.springframework.boot.StartupInfoLogger] Starting DeviceApplication on DESKTOP-B847ITO with PID 10512 (E:\device\target\classes started by liuru in E:\device)
+[2019-08-05 10:07:48,782][INFO][main][org.springframework.boot.SpringApplication] No active profile set, falling back to default profiles: default
+[2019-08-05 10:07:49,625][INFO][main][org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8080 (http)
+[2019-08-05 10:07:49,635][INFO][main][org.apache.juli.logging.DirectJDKLog] Initializing ProtocolHandler ["http-nio-8080"]
+[2019-08-05 10:07:49,641][INFO][main][org.apache.juli.logging.DirectJDKLog] Starting service [Tomcat]
+[2019-08-05 10:07:49,642][INFO][main][org.apache.juli.logging.DirectJDKLog] Starting Servlet engine: [Apache Tomcat/9.0.21]
+[2019-08-05 10:07:49,647][INFO][main][org.apache.juli.logging.DirectJDKLog] Loaded APR based Apache Tomcat Native library [1.2.21] using APR version [1.6.5].
+[2019-08-05 10:07:49,647][INFO][main][org.apache.juli.logging.DirectJDKLog] APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[2019-08-05 10:07:49,647][INFO][main][org.apache.juli.logging.DirectJDKLog] APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[2019-08-05 10:07:49,650][INFO][main][org.apache.juli.logging.DirectJDKLog] OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+[2019-08-05 10:07:49,726][INFO][main][org.apache.juli.logging.DirectJDKLog] Initializing Spring embedded WebApplicationContext
+[2019-08-05 10:07:49,726][INFO][main][org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 902 ms
+[2019-08-05 10:07:50,155][INFO][main][org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] Initializing ExecutorService 'applicationTaskExecutor'
+[2019-08-05 10:07:50,331][INFO][main][org.apache.juli.logging.DirectJDKLog] Starting ProtocolHandler ["http-nio-8080"]
+[2019-08-05 10:07:50,348][INFO][main][org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8080 (http) with context path ''
+[2019-08-05 10:07:50,351][INFO][main][org.springframework.boot.StartupInfoLogger] Started DeviceApplication in 1.872 seconds (JVM running for 2.922)
+[2019-08-05 10:10:06,185][INFO][main][org.springframework.boot.StartupInfoLogger] Starting DeviceApplication on DESKTOP-B847ITO with PID 12496 (E:\device\target\classes started by liuru in E:\device)
+[2019-08-05 10:10:06,187][INFO][main][org.springframework.boot.SpringApplication] No active profile set, falling back to default profiles: default
+[2019-08-05 10:10:07,066][INFO][main][org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8080 (http)
+[2019-08-05 10:10:07,076][INFO][main][org.apache.juli.logging.DirectJDKLog] Initializing ProtocolHandler ["http-nio-8080"]
+[2019-08-05 10:10:07,082][INFO][main][org.apache.juli.logging.DirectJDKLog] Starting service [Tomcat]
+[2019-08-05 10:10:07,083][INFO][main][org.apache.juli.logging.DirectJDKLog] Starting Servlet engine: [Apache Tomcat/9.0.21]
+[2019-08-05 10:10:07,088][INFO][main][org.apache.juli.logging.DirectJDKLog] Loaded APR based Apache Tomcat Native library [1.2.21] using APR version [1.6.5].
+[2019-08-05 10:10:07,088][INFO][main][org.apache.juli.logging.DirectJDKLog] APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[2019-08-05 10:10:07,088][INFO][main][org.apache.juli.logging.DirectJDKLog] APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[2019-08-05 10:10:07,091][INFO][main][org.apache.juli.logging.DirectJDKLog] OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+[2019-08-05 10:10:07,163][INFO][main][org.apache.juli.logging.DirectJDKLog] Initializing Spring embedded WebApplicationContext
+[2019-08-05 10:10:07,163][INFO][main][org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 943 ms
+[2019-08-05 10:10:07,570][INFO][main][org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] Initializing ExecutorService 'applicationTaskExecutor'
+[2019-08-05 10:10:07,752][INFO][main][org.apache.juli.logging.DirectJDKLog] Starting ProtocolHandler ["http-nio-8080"]
+[2019-08-05 10:10:07,768][INFO][main][org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8080 (http) with context path ''
+[2019-08-05 10:10:07,770][INFO][main][org.springframework.boot.StartupInfoLogger] Started DeviceApplication in 1.876 seconds (JVM running for 2.918)
+[2019-08-05 10:30:25,114][INFO][http-nio-8080-exec-2][org.apache.juli.logging.DirectJDKLog] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2019-08-05 10:30:25,115][INFO][http-nio-8080-exec-2][org.springframework.web.servlet.FrameworkServlet] Initializing Servlet 'dispatcherServlet'
+[2019-08-05 10:30:25,119][INFO][http-nio-8080-exec-2][org.springframework.web.servlet.FrameworkServlet] Completed initialization in 4 ms
+[2019-08-05 14:32:36,986][INFO][http-nio-8080-exec-9][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 14:32:37,165][INFO][http-nio-8080-exec-9][com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[2019-08-05 14:32:37,340][INFO][http-nio-8080-exec-9][com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[2019-08-05 14:32:55,724][INFO][http-nio-8080-exec-1][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 14:33:47,788][INFO][http-nio-8080-exec-5][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 14:36:37,197][INFO][http-nio-8080-exec-9][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 14:37:19,006][INFO][http-nio-8080-exec-1][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 14:38:42,101][INFO][http-nio-8080-exec-5][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 14:38:47,576][INFO][http-nio-8080-exec-7][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 14:39:13,057][INFO][http-nio-8080-exec-9][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 14:41:45,841][INFO][http-nio-8080-exec-3][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 14:41:45,852][INFO][http-nio-8080-exec-5][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 14:41:58,494][INFO][http-nio-8080-exec-8][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 14:42:10,581][INFO][http-nio-8080-exec-10][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 14:43:18,970][INFO][http-nio-8080-exec-3][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 14:43:19,012][INFO][http-nio-8080-exec-4][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 14:43:26,308][INFO][http-nio-8080-exec-8][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 14:43:58,749][INFO][http-nio-8080-exec-10][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 14:43:59,024][INFO][http-nio-8080-exec-1][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 14:44:02,270][INFO][http-nio-8080-exec-6][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 14:44:19,056][INFO][http-nio-8080-exec-5][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 14:44:19,160][INFO][http-nio-8080-exec-7][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 14:44:20,499][INFO][http-nio-8080-exec-8][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 14:51:48,049][INFO][http-nio-8080-exec-1][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 14:59:40,611][INFO][http-nio-8080-exec-4][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 14:59:40,622][INFO][http-nio-8080-exec-8][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:11:50,193][INFO][main][org.springframework.boot.StartupInfoLogger] Starting DeviceApplication on DESKTOP-B847ITO with PID 12828 (E:\device\target\classes started by liuru in E:\device)
+[2019-08-05 15:11:50,209][INFO][main][org.springframework.boot.SpringApplication] No active profile set, falling back to default profiles: default
+[2019-08-05 15:11:51,466][INFO][main][org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8080 (http)
+[2019-08-05 15:11:51,487][INFO][main][org.apache.juli.logging.DirectJDKLog] Initializing ProtocolHandler ["http-nio-8080"]
+[2019-08-05 15:11:51,493][INFO][main][org.apache.juli.logging.DirectJDKLog] Starting service [Tomcat]
+[2019-08-05 15:11:51,494][INFO][main][org.apache.juli.logging.DirectJDKLog] Starting Servlet engine: [Apache Tomcat/9.0.21]
+[2019-08-05 15:11:51,499][INFO][main][org.apache.juli.logging.DirectJDKLog] Loaded APR based Apache Tomcat Native library [1.2.21] using APR version [1.6.5].
+[2019-08-05 15:11:51,499][INFO][main][org.apache.juli.logging.DirectJDKLog] APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[2019-08-05 15:11:51,499][INFO][main][org.apache.juli.logging.DirectJDKLog] APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[2019-08-05 15:11:51,544][INFO][main][org.apache.juli.logging.DirectJDKLog] OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+[2019-08-05 15:11:51,643][INFO][main][org.apache.juli.logging.DirectJDKLog] Initializing Spring embedded WebApplicationContext
+[2019-08-05 15:11:51,643][INFO][main][org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 1376 ms
+[2019-08-05 15:11:52,141][INFO][main][org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] Initializing ExecutorService 'applicationTaskExecutor'
+[2019-08-05 15:11:52,363][INFO][main][org.apache.juli.logging.DirectJDKLog] Starting ProtocolHandler ["http-nio-8080"]
+[2019-08-05 15:11:52,381][INFO][main][org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8080 (http) with context path ''
+[2019-08-05 15:11:52,383][INFO][main][org.springframework.boot.StartupInfoLogger] Started DeviceApplication in 2.736 seconds (JVM running for 4.371)
+[2019-08-05 15:12:37,060][INFO][http-nio-8080-exec-1][org.apache.juli.logging.DirectJDKLog] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2019-08-05 15:12:37,060][INFO][http-nio-8080-exec-1][org.springframework.web.servlet.FrameworkServlet] Initializing Servlet 'dispatcherServlet'
+[2019-08-05 15:12:37,066][INFO][http-nio-8080-exec-1][org.springframework.web.servlet.FrameworkServlet] Completed initialization in 5 ms
+[2019-08-05 15:12:37,177][INFO][http-nio-8080-exec-2][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:12:37,252][INFO][http-nio-8080-exec-2][com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[2019-08-05 15:12:37,457][INFO][http-nio-8080-exec-2][com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[2019-08-05 15:18:08,099][INFO][main][org.springframework.boot.StartupInfoLogger] Starting DeviceApplication on DESKTOP-B847ITO with PID 12656 (E:\device\target\classes started by liuru in E:\device)
+[2019-08-05 15:18:08,100][INFO][main][org.springframework.boot.SpringApplication] No active profile set, falling back to default profiles: default
+[2019-08-05 15:18:08,929][INFO][main][org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8080 (http)
+[2019-08-05 15:18:08,941][INFO][main][org.apache.juli.logging.DirectJDKLog] Initializing ProtocolHandler ["http-nio-8080"]
+[2019-08-05 15:18:08,947][INFO][main][org.apache.juli.logging.DirectJDKLog] Starting service [Tomcat]
+[2019-08-05 15:18:08,948][INFO][main][org.apache.juli.logging.DirectJDKLog] Starting Servlet engine: [Apache Tomcat/9.0.21]
+[2019-08-05 15:18:08,955][INFO][main][org.apache.juli.logging.DirectJDKLog] Loaded APR based Apache Tomcat Native library [1.2.21] using APR version [1.6.5].
+[2019-08-05 15:18:08,955][INFO][main][org.apache.juli.logging.DirectJDKLog] APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[2019-08-05 15:18:08,955][INFO][main][org.apache.juli.logging.DirectJDKLog] APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[2019-08-05 15:18:08,959][INFO][main][org.apache.juli.logging.DirectJDKLog] OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+[2019-08-05 15:18:09,048][INFO][main][org.apache.juli.logging.DirectJDKLog] Initializing Spring embedded WebApplicationContext
+[2019-08-05 15:18:09,048][INFO][main][org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 922 ms
+[2019-08-05 15:18:09,585][INFO][main][org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] Initializing ExecutorService 'applicationTaskExecutor'
+[2019-08-05 15:18:09,831][INFO][main][org.apache.juli.logging.DirectJDKLog] Starting ProtocolHandler ["http-nio-8080"]
+[2019-08-05 15:18:09,847][INFO][main][org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8080 (http) with context path ''
+[2019-08-05 15:18:09,849][INFO][main][org.springframework.boot.StartupInfoLogger] Started DeviceApplication in 2.044 seconds (JVM running for 3.307)
+[2019-08-05 15:20:21,415][INFO][http-nio-8080-exec-1][org.apache.juli.logging.DirectJDKLog] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2019-08-05 15:20:21,416][INFO][http-nio-8080-exec-1][org.springframework.web.servlet.FrameworkServlet] Initializing Servlet 'dispatcherServlet'
+[2019-08-05 15:20:21,420][INFO][http-nio-8080-exec-1][org.springframework.web.servlet.FrameworkServlet] Completed initialization in 4 ms
+[2019-08-05 15:20:21,805][INFO][http-nio-8080-exec-2][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:20:21,855][INFO][http-nio-8080-exec-2][com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[2019-08-05 15:20:21,951][INFO][http-nio-8080-exec-2][com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[2019-08-05 15:21:05,097][INFO][http-nio-8080-exec-4][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:21:43,240][INFO][http-nio-8080-exec-6][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:22:44,232][INFO][http-nio-8080-exec-10][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:27:45,674][INFO][main][org.springframework.boot.StartupInfoLogger] Starting DeviceApplication on DESKTOP-B847ITO with PID 8428 (E:\device\target\classes started by liuru in E:\device)
+[2019-08-05 15:27:45,675][INFO][main][org.springframework.boot.SpringApplication] No active profile set, falling back to default profiles: default
+[2019-08-05 15:27:46,509][INFO][main][org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8080 (http)
+[2019-08-05 15:27:46,521][INFO][main][org.apache.juli.logging.DirectJDKLog] Initializing ProtocolHandler ["http-nio-8080"]
+[2019-08-05 15:27:46,528][INFO][main][org.apache.juli.logging.DirectJDKLog] Starting service [Tomcat]
+[2019-08-05 15:27:46,529][INFO][main][org.apache.juli.logging.DirectJDKLog] Starting Servlet engine: [Apache Tomcat/9.0.21]
+[2019-08-05 15:27:46,534][INFO][main][org.apache.juli.logging.DirectJDKLog] Loaded APR based Apache Tomcat Native library [1.2.21] using APR version [1.6.5].
+[2019-08-05 15:27:46,534][INFO][main][org.apache.juli.logging.DirectJDKLog] APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[2019-08-05 15:27:46,534][INFO][main][org.apache.juli.logging.DirectJDKLog] APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[2019-08-05 15:27:46,537][INFO][main][org.apache.juli.logging.DirectJDKLog] OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+[2019-08-05 15:27:46,612][INFO][main][org.apache.juli.logging.DirectJDKLog] Initializing Spring embedded WebApplicationContext
+[2019-08-05 15:27:46,612][INFO][main][org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 892 ms
+[2019-08-05 15:27:47,065][INFO][main][org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] Initializing ExecutorService 'applicationTaskExecutor'
+[2019-08-05 15:27:47,259][INFO][main][org.apache.juli.logging.DirectJDKLog] Starting ProtocolHandler ["http-nio-8080"]
+[2019-08-05 15:27:47,280][INFO][main][org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8080 (http) with context path ''
+[2019-08-05 15:27:47,283][INFO][main][org.springframework.boot.StartupInfoLogger] Started DeviceApplication in 1.907 seconds (JVM running for 3.106)
+[2019-08-05 15:27:49,431][INFO][http-nio-8080-exec-1][org.apache.juli.logging.DirectJDKLog] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2019-08-05 15:27:49,431][INFO][http-nio-8080-exec-1][org.springframework.web.servlet.FrameworkServlet] Initializing Servlet 'dispatcherServlet'
+[2019-08-05 15:27:49,435][INFO][http-nio-8080-exec-1][org.springframework.web.servlet.FrameworkServlet] Completed initialization in 4 ms
+[2019-08-05 15:27:49,522][INFO][http-nio-8080-exec-4][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:27:49,570][INFO][http-nio-8080-exec-4][com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[2019-08-05 15:27:49,670][INFO][http-nio-8080-exec-4][com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[2019-08-05 15:27:58,832][INFO][http-nio-8080-exec-2][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:28:03,647][INFO][http-nio-8080-exec-5][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:29:00,702][INFO][http-nio-8080-exec-8][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:29:17,589][INFO][http-nio-8080-exec-10][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:29:35,473][INFO][http-nio-8080-exec-4][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:29:36,310][INFO][http-nio-8080-exec-3][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:29:36,516][INFO][http-nio-8080-exec-2][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:29:58,032][INFO][http-nio-8080-exec-6][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:30:47,558][INFO][http-nio-8080-exec-9][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:30:47,605][INFO][http-nio-8080-exec-10][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:30:49,416][INFO][http-nio-8080-exec-1][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:30:49,448][INFO][http-nio-8080-exec-4][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:30:54,691][INFO][http-nio-8080-exec-2][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:30:58,789][INFO][http-nio-8080-exec-5][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:31:01,574][INFO][http-nio-8080-exec-8][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:31:15,028][INFO][http-nio-8080-exec-10][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:31:16,377][INFO][http-nio-8080-exec-4][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:31:20,358][INFO][http-nio-8080-exec-3][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:31:23,033][INFO][http-nio-8080-exec-5][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:31:27,244][INFO][http-nio-8080-exec-6][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:33:21,947][INFO][http-nio-8080-exec-4][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:33:22,115][INFO][http-nio-8080-exec-3][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:33:23,618][INFO][http-nio-8080-exec-2][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:33:27,615][INFO][http-nio-8080-exec-6][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:33:32,774][INFO][http-nio-8080-exec-8][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:33:33,245][INFO][http-nio-8080-exec-9][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:33:35,733][INFO][http-nio-8080-exec-4][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:35:38,313][INFO][http-nio-8080-exec-7][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:35:41,933][INFO][http-nio-8080-exec-8][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:36:05,024][INFO][http-nio-8080-exec-4][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:36:05,035][INFO][http-nio-8080-exec-3][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:36:10,478][INFO][http-nio-8080-exec-5][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:37:24,193][INFO][http-nio-8080-exec-10][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:38:58,553][INFO][http-nio-8080-exec-6][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:38:58,553][INFO][http-nio-8080-exec-7][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:39:11,714][INFO][http-nio-8080-exec-8][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:39:11,806][INFO][http-nio-8080-exec-10][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:39:35,548][INFO][http-nio-8080-exec-5][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:39:35,572][INFO][http-nio-8080-exec-2][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:40:00,298][INFO][http-nio-8080-exec-9][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:40:00,542][INFO][http-nio-8080-exec-1][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:40:02,856][INFO][http-nio-8080-exec-10][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:40:06,886][INFO][http-nio-8080-exec-4][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:40:10,596][INFO][http-nio-8080-exec-5][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:40:27,263][INFO][http-nio-8080-exec-7][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:40:27,834][INFO][http-nio-8080-exec-9][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:40:30,921][INFO][http-nio-8080-exec-8][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:40:31,769][INFO][http-nio-8080-exec-1][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:40:32,422][INFO][http-nio-8080-exec-3][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:40:32,608][INFO][http-nio-8080-exec-4][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:40:32,788][INFO][http-nio-8080-exec-5][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:40:36,843][INFO][http-nio-8080-exec-7][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:40:43,636][INFO][http-nio-8080-exec-9][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:40:43,650][INFO][http-nio-8080-exec-1][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:40:46,716][INFO][http-nio-8080-exec-10][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:40:51,330][INFO][http-nio-8080-exec-4][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:45:14,821][INFO][http-nio-8080-exec-10][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:45:14,821][INFO][http-nio-8080-exec-1][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:47:04,376][INFO][main][org.springframework.boot.StartupInfoLogger] Starting DeviceApplication on DESKTOP-B847ITO with PID 1924 (E:\device\target\classes started by liuru in E:\device)
+[2019-08-05 15:47:04,378][INFO][main][org.springframework.boot.SpringApplication] No active profile set, falling back to default profiles: default
+[2019-08-05 15:47:05,210][INFO][main][org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8080 (http)
+[2019-08-05 15:47:05,222][INFO][main][org.apache.juli.logging.DirectJDKLog] Initializing ProtocolHandler ["http-nio-8080"]
+[2019-08-05 15:47:05,229][INFO][main][org.apache.juli.logging.DirectJDKLog] Starting service [Tomcat]
+[2019-08-05 15:47:05,229][INFO][main][org.apache.juli.logging.DirectJDKLog] Starting Servlet engine: [Apache Tomcat/9.0.21]
+[2019-08-05 15:47:05,235][INFO][main][org.apache.juli.logging.DirectJDKLog] Loaded APR based Apache Tomcat Native library [1.2.21] using APR version [1.6.5].
+[2019-08-05 15:47:05,236][INFO][main][org.apache.juli.logging.DirectJDKLog] APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[2019-08-05 15:47:05,236][INFO][main][org.apache.juli.logging.DirectJDKLog] APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[2019-08-05 15:47:05,239][INFO][main][org.apache.juli.logging.DirectJDKLog] OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+[2019-08-05 15:47:05,315][INFO][main][org.apache.juli.logging.DirectJDKLog] Initializing Spring embedded WebApplicationContext
+[2019-08-05 15:47:05,316][INFO][main][org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 909 ms
+[2019-08-05 15:47:05,766][INFO][main][org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] Initializing ExecutorService 'applicationTaskExecutor'
+[2019-08-05 15:47:06,044][INFO][main][org.apache.juli.logging.DirectJDKLog] Starting ProtocolHandler ["http-nio-8080"]
+[2019-08-05 15:47:06,064][INFO][main][org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8080 (http) with context path ''
+[2019-08-05 15:47:06,067][INFO][main][org.springframework.boot.StartupInfoLogger] Started DeviceApplication in 1.986 seconds (JVM running for 3.042)
+[2019-08-05 15:47:31,576][INFO][http-nio-8080-exec-1][org.apache.juli.logging.DirectJDKLog] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2019-08-05 15:47:31,576][INFO][http-nio-8080-exec-1][org.springframework.web.servlet.FrameworkServlet] Initializing Servlet 'dispatcherServlet'
+[2019-08-05 15:47:31,583][INFO][http-nio-8080-exec-1][org.springframework.web.servlet.FrameworkServlet] Completed initialization in 7 ms
+[2019-08-05 15:47:31,669][INFO][http-nio-8080-exec-2][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:47:31,725][INFO][http-nio-8080-exec-2][com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[2019-08-05 15:47:31,806][INFO][http-nio-8080-exec-2][com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[2019-08-05 15:47:53,812][INFO][http-nio-8080-exec-5][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:47:53,838][INFO][http-nio-8080-exec-6][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:47:55,619][INFO][http-nio-8080-exec-7][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:47:58,492][INFO][http-nio-8080-exec-8][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:48:00,269][INFO][http-nio-8080-exec-10][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:49:52,063][INFO][main][org.springframework.boot.StartupInfoLogger] Starting DeviceApplication on DESKTOP-B847ITO with PID 1428 (E:\device\target\classes started by liuru in E:\device)
+[2019-08-05 15:49:52,064][INFO][main][org.springframework.boot.SpringApplication] No active profile set, falling back to default profiles: default
+[2019-08-05 15:49:52,967][INFO][main][org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8080 (http)
+[2019-08-05 15:49:52,978][INFO][main][org.apache.juli.logging.DirectJDKLog] Initializing ProtocolHandler ["http-nio-8080"]
+[2019-08-05 15:49:52,984][INFO][main][org.apache.juli.logging.DirectJDKLog] Starting service [Tomcat]
+[2019-08-05 15:49:52,985][INFO][main][org.apache.juli.logging.DirectJDKLog] Starting Servlet engine: [Apache Tomcat/9.0.21]
+[2019-08-05 15:49:52,990][INFO][main][org.apache.juli.logging.DirectJDKLog] Loaded APR based Apache Tomcat Native library [1.2.21] using APR version [1.6.5].
+[2019-08-05 15:49:52,990][INFO][main][org.apache.juli.logging.DirectJDKLog] APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[2019-08-05 15:49:52,991][INFO][main][org.apache.juli.logging.DirectJDKLog] APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[2019-08-05 15:49:52,994][INFO][main][org.apache.juli.logging.DirectJDKLog] OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+[2019-08-05 15:49:53,065][INFO][main][org.apache.juli.logging.DirectJDKLog] Initializing Spring embedded WebApplicationContext
+[2019-08-05 15:49:53,066][INFO][main][org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 976 ms
+[2019-08-05 15:49:53,482][INFO][main][org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] Initializing ExecutorService 'applicationTaskExecutor'
+[2019-08-05 15:49:53,660][INFO][main][org.apache.juli.logging.DirectJDKLog] Starting ProtocolHandler ["http-nio-8080"]
+[2019-08-05 15:49:53,675][INFO][main][org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8080 (http) with context path ''
+[2019-08-05 15:49:53,677][INFO][main][org.springframework.boot.StartupInfoLogger] Started DeviceApplication in 1.895 seconds (JVM running for 3.096)
+[2019-08-05 15:50:07,761][INFO][http-nio-8080-exec-1][org.apache.juli.logging.DirectJDKLog] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2019-08-05 15:50:07,761][INFO][http-nio-8080-exec-1][org.springframework.web.servlet.FrameworkServlet] Initializing Servlet 'dispatcherServlet'
+[2019-08-05 15:50:07,765][INFO][http-nio-8080-exec-1][org.springframework.web.servlet.FrameworkServlet] Completed initialization in 4 ms
+[2019-08-05 15:50:07,857][INFO][http-nio-8080-exec-2][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:50:07,906][INFO][http-nio-8080-exec-2][com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[2019-08-05 15:50:08,006][INFO][http-nio-8080-exec-2][com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[2019-08-05 15:51:07,674][INFO][http-nio-8080-exec-4][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:51:12,360][INFO][http-nio-8080-exec-3][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:51:12,369][INFO][http-nio-8080-exec-6][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:51:36,547][INFO][http-nio-8080-exec-9][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:51:37,856][INFO][http-nio-8080-exec-10][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:51:42,099][INFO][http-nio-8080-exec-2][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:52:04,050][INFO][http-nio-8080-exec-4][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:52:22,101][INFO][http-nio-8080-exec-6][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:52:30,267][INFO][http-nio-8080-exec-8][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:52:31,782][INFO][http-nio-8080-exec-9][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:52:35,939][INFO][http-nio-8080-exec-1][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:52:37,427][INFO][http-nio-8080-exec-2][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:53:05,243][INFO][main][org.springframework.boot.StartupInfoLogger] Starting DeviceApplication on DESKTOP-B847ITO with PID 13056 (E:\device\target\classes started by liuru in E:\device)
+[2019-08-05 15:53:05,244][INFO][main][org.springframework.boot.SpringApplication] No active profile set, falling back to default profiles: default
+[2019-08-05 15:53:06,178][INFO][main][org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat initialized with port(s): 8080 (http)
+[2019-08-05 15:53:06,195][INFO][main][org.apache.juli.logging.DirectJDKLog] Initializing ProtocolHandler ["http-nio-8080"]
+[2019-08-05 15:53:06,208][INFO][main][org.apache.juli.logging.DirectJDKLog] Starting service [Tomcat]
+[2019-08-05 15:53:06,209][INFO][main][org.apache.juli.logging.DirectJDKLog] Starting Servlet engine: [Apache Tomcat/9.0.21]
+[2019-08-05 15:53:06,218][INFO][main][org.apache.juli.logging.DirectJDKLog] Loaded APR based Apache Tomcat Native library [1.2.21] using APR version [1.6.5].
+[2019-08-05 15:53:06,219][INFO][main][org.apache.juli.logging.DirectJDKLog] APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+[2019-08-05 15:53:06,219][INFO][main][org.apache.juli.logging.DirectJDKLog] APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+[2019-08-05 15:53:06,222][INFO][main][org.apache.juli.logging.DirectJDKLog] OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+[2019-08-05 15:53:06,320][INFO][main][org.apache.juli.logging.DirectJDKLog] Initializing Spring embedded WebApplicationContext
+[2019-08-05 15:53:06,320][INFO][main][org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 1047 ms
+[2019-08-05 15:53:07,020][INFO][main][org.springframework.scheduling.concurrent.ExecutorConfigurationSupport] Initializing ExecutorService 'applicationTaskExecutor'
+[2019-08-05 15:53:07,235][INFO][main][org.apache.juli.logging.DirectJDKLog] Starting ProtocolHandler ["http-nio-8080"]
+[2019-08-05 15:53:07,251][INFO][main][org.springframework.boot.web.embedded.tomcat.TomcatWebServer] Tomcat started on port(s): 8080 (http) with context path ''
+[2019-08-05 15:53:07,253][INFO][main][org.springframework.boot.StartupInfoLogger] Started DeviceApplication in 2.286 seconds (JVM running for 3.527)
+[2019-08-05 15:53:15,333][INFO][http-nio-8080-exec-1][org.apache.juli.logging.DirectJDKLog] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[2019-08-05 15:53:15,333][INFO][http-nio-8080-exec-1][org.springframework.web.servlet.FrameworkServlet] Initializing Servlet 'dispatcherServlet'
+[2019-08-05 15:53:15,338][INFO][http-nio-8080-exec-1][org.springframework.web.servlet.FrameworkServlet] Completed initialization in 4 ms
+[2019-08-05 15:53:15,426][INFO][http-nio-8080-exec-2][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:53:15,476][INFO][http-nio-8080-exec-2][com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[2019-08-05 15:53:15,572][INFO][http-nio-8080-exec-2][com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[2019-08-05 15:53:18,488][INFO][http-nio-8080-exec-3][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:53:21,830][INFO][http-nio-8080-exec-5][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:53:22,652][INFO][http-nio-8080-exec-6][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:54:06,407][INFO][http-nio-8080-exec-8][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:54:07,338][INFO][http-nio-8080-exec-9][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:54:15,133][INFO][http-nio-8080-exec-1][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:59:08,183][INFO][http-nio-8080-exec-6][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 15:59:08,183][INFO][http-nio-8080-exec-7][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 16:02:16,545][INFO][http-nio-8080-exec-4][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 16:02:16,550][INFO][http-nio-8080-exec-5][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 16:03:12,843][INFO][http-nio-8080-exec-7][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 16:03:12,867][INFO][http-nio-8080-exec-9][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 16:03:14,063][INFO][http-nio-8080-exec-1][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 16:03:41,765][INFO][http-nio-8080-exec-2][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 16:03:41,815][INFO][http-nio-8080-exec-5][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 16:03:43,589][INFO][http-nio-8080-exec-6][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 16:05:13,074][INFO][http-nio-8080-exec-10][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 16:05:13,077][INFO][http-nio-8080-exec-3][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 16:07:00,758][INFO][http-nio-8080-exec-8][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 16:07:00,854][INFO][http-nio-8080-exec-1][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 16:10:27,731][INFO][http-nio-8080-exec-6][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 16:10:27,870][INFO][http-nio-8080-exec-4][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 16:10:31,403][INFO][http-nio-8080-exec-7][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 16:15:30,431][INFO][http-nio-8080-exec-2][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 16:15:30,431][INFO][http-nio-8080-exec-10][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 16:16:05,044][INFO][http-nio-8080-exec-7][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 16:16:05,044][INFO][http-nio-8080-exec-4][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 16:16:13,257][INFO][http-nio-8080-exec-9][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 16:17:03,038][INFO][http-nio-8080-exec-3][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 16:18:38,657][INFO][http-nio-8080-exec-7][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 16:18:38,758][INFO][http-nio-8080-exec-9][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 16:18:40,926][INFO][http-nio-8080-exec-1][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 16:19:34,639][INFO][http-nio-8080-exec-10][com.jw.device.contorller.DeviceInfoController] 设备添加~~~~~~~~~~~~~~~~~DeviceInfoDTO(id=null, decisionDate=Mon Aug 05 00:00:00 CST 2019, decisionBatch=2, providerName=友达, deviceId=2222222, healthState=正常, systemVersions=V2.00, softwareVersions=null, lastLoginDate=null, currentAffiliation=null, pageDTO=null)
+[2019-08-05 16:20:33,885][INFO][http-nio-8080-exec-5][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~
+[2019-08-05 16:20:33,966][INFO][http-nio-8080-exec-4][com.jw.device.contorller.DeviceInfoController] 设备查询~~~~~~~~~~~~~~~~~

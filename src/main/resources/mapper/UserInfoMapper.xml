@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.jw.device.mapper.UserInfoMapper">
+
+
+    <insert id="addUser" parameterType="com.jw.device.entity.UserInfo">
+
+        INSERT INTO   `userinfo`
+        (
+         `name`,
+         `phone`,
+         `address`,
+         `registDate`
+        )
+        VALUES
+        (
+       #{name},   #{phone},   #{address},   #{registDate}
+        );
+    </insert>
+    <select id="findByUserForName" resultType="com.jw.device.entity.UserInfo">
+
+
+        SELECT 	`id`,
+                  `name`,
+                  `phone`,
+                  `address`,
+                  `registDate`
+
+        FROM
+             `userinfo` where `name`=#{name}
+    </select>
+    <select id="queryUser" resultType="com.jw.device.entity.UserInfo">
+
+
+        SELECT 	`id`,
+                  `name`,
+                  `phone`,
+                  `address`,
+                  `registDate`
+
+        FROM
+           `userinfo` where 1=1
+        <if test="phone!=null and phone!=''">
+            and `phone` like '%' #{phone} '%'
+        </if>
+        <if test="name!=null and name!=''">
+            and `name` like '%' #{name} '%'
+        </if>
+        ORDER BY `id` DESC
+    </select>
+
+</mapper>

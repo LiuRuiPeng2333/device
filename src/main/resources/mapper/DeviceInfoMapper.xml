@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.jw.device.mapper.DeviceInfoMapper">
+
+
+    <insert id="addDevice" parameterType="com.jw.device.entity.DeviceInfo">
+        INSERT INTO `device`.`deviceinfo`
+        (
+            `decisionDate`,
+            `decisionBatch`,
+            `providerName`,
+            `deviceId`,
+            `healthState`,
+            `systemVersions`,
+            `softwareVersions`,
+            `lastLoginDate`
+        )
+        VALUES
+        (
+           #{decisionDate}, #{decisionBatch}, #{providerName}, #{deviceId}, #{healthState}, #{systemVersions}
+            , #{softwareVersions}, #{lastLoginDate}
+        );
+    </insert>
+    <update id="updateDeviceByDeviceId">
+
+
+        UPDATE  `deviceinfo`
+        SET
+            `currentAffiliation` = #{currentAffiliation}
+        WHERE
+            `deviceId` = #{deviceId}
+
+    </update>
+    <update id="updatehealthstateAndCurrentAffiliation">
+
+        UPDATE  `deviceinfo`
+        SET
+            `currentAffiliation` = #{currentAffiliation}
+         and `healthState`=#{healthState}
+        WHERE
+            `deviceId` = #{deviceId}
+
+    </update>
+    <delete id="deleteDevice">
+
+
+        DELETE FROM  `deviceinfo`
+        WHERE
+            `deviceId` = #{deviceId}
+
+    </delete>
+    <select id="queryDevice" resultType="com.jw.device.entity.DeviceInfo" parameterType="com.jw.device.dto.DeviceInfoDTO">
+
+
+        SELECT 	`id`,
+                  `decisionDate`,
+                  `decisionBatch`,
+                  `providerName`,
+                  `deviceId`,
+                  `healthState`,
+                  `systemVersions`,
+                  `softwareVersions`,
+                  `lastLoginDate`,
+                  `currentAffiliation`
+        FROM
+           `deviceinfo`
+            where 1=1
+        <if test="providerName!=null and providerName!=''">
+            and providerName like '%' #{providerName} '%'
+        </if>
+        <if test="deviceId!=null and deviceId!=''">
+            and deviceId like '%' #{deviceId} '%'
+        </if>
+        <if test="currentAffiliation!=null and currentAffiliation!=''">
+            and currentAffiliation like '%' #{currentAffiliation} '%'
+        </if>
+        ORDER BY `id` DESC
+
+    </select>
+    <select id="findDeviceByDeviceId" resultType="com.jw.device.entity.DeviceInfo">
+
+        SELECT 	`id`,
+                  `decisionDate`,
+                  `decisionBatch`,
+                  `providerName`,
+                  `deviceId`,
+                  `healthState`,
+                  `systemVersions`,
+                  `softwareVersions`,
+                  `lastLoginDate`,
+                  `currentAffiliation`
+
+        FROM
+           `deviceinfo`  where deviceId=#{deviceId}
+    </select>
+    <select id="queryDeviceNumber" resultType="java.lang.Integer">
+        SELECT COUNT(1) FROM deviceinfo WHERE currentAffiliation=#{currentAffiliation}
+    </select>
+    <select id="queryDeviceNotCurrentAffiliation" resultType="com.jw.device.entity.DeviceInfo">
+
+        SELECT 	`id`,
+                  `decisionDate`,
+                  `decisionBatch`,
+                  `providerName`,
+                  `deviceId`,
+                  `healthState`,
+                  `systemVersions`,
+                  `softwareVersions`,
+                  `lastLoginDate`,
+                  `currentAffiliation`
+        FROM
+            `deviceinfo`
+        where 1=1  and  currentAffiliation is null and  healthState ='正常'
+        <if test="providerName!=null and providerName!=''">
+            and providerName like '%' #{providerName} '%'
+        </if>
+        <if test="providerName!=null and providerName!=''">
+            and deviceId like '%' #{deviceId} '%'
+        </if>
+        <if test="currentAffiliation!=null and currentAffiliation!=''">
+            and currentAffiliation like '%' #{currentAffiliation} '%'
+        </if>
+
+        ORDER BY `id` DESC
+    </select>
+</mapper>
